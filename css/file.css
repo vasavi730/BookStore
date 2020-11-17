@@ -1,0 +1,16 @@
+button {
+  background-color:green;
+  border-radius: 15px;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  cursor: pointer;
+}
+
+table
+{
+	border-collapse: collapse;
+}
